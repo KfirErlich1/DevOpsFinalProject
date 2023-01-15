@@ -19,7 +19,7 @@
 </head>
 <body>
     <form>
-        <button class="shield" onsubmit="alert('Button was pushed!') ; return false">Push Me</button>
+        <button class="shield" onclick="alert('Button was pushed!') ; return false">Push Me</button>
         
     </form>
 </body>
