@@ -6,7 +6,7 @@
 <title>Simple JSP Page</title>
 <style>
     .shield {
-        background-color: #4CAF50; /* Green */
+        background-color: red; /* Green */
         border: none;
         color: white;
         padding: 15px 32px;
